@@ -1,0 +1,110 @@
+<!--
+  * Shading a triangle
+-->
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>WebGL Demo - Voronoi (Full)</title>
+  <meta charset="utf-8">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  </style>
+
+  <script src="./libraries/threejs/three.min.js"></script>
+  <!-- shaders -->
+  <script type="x-shader/x-vertex" id="vertexShader">
+    uniform vec3 u_color;
+    varying vec3 color;
+    void main() {
+      gl_Position = vec4(position, 1.0);
+      color = u_color;
+    }
+  </script>
+  <script type="x-shader/x-fragment" id="fragmentShader">
+//    uniform vec3 u_color;
+    varying vec3 color;
+    void main() {
+//      vec3 color = u_color;
+      gl_FragColor = vec4(color,1.0);
+    }
+  </script>
+</head>
+
+<body></body>
+
+<script>
+  let camera, scene, renderer;
+  let uniforms, mesh;
+
+  init();
+  animate();
+
+  function init() {
+    scene = new THREE.Scene();
+
+    // 2D perspective camera -- see linked article on top for full explanation of params
+    camera = new THREE.Camera();
+    camera.position.z = 1;
+
+    renderer = new THREE.WebGLRenderer({ antialias: true });
+    renderer.setClearColor(0x000000, 1);
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setPixelRatio(window.devicePixelRatio);
+    document.body.appendChild(renderer.domElement);
+
+    uniforms = {
+      u_color: {type: 'vec3', value: new THREE.Vector3(1.0,0.0,1.0) },
+    };
+
+    let vShader = document.getElementById("vertexShader").textContent;
+    let fShader = document.getElementById("fragmentShader").textContent;
+
+    // let geometry = new THREE.PlaneGeometry(2, 2);
+    let triangleGeom = new THREE.BufferGeometry();
+    let points = [];
+    points.push(new THREE.Vector3(0.0, 1.0, 0.0));
+    points.push(new THREE.Vector3(-1.0, -1.0, 0.0));
+    points.push(new THREE.Vector3(1.0, -1.0, 0.0));
+    triangleGeom.setFromPoints(points);
+    triangleGeom.computeVertexNormals();
+
+    // give it a material
+    let material = new THREE.ShaderMaterial({
+      uniforms: uniforms,
+      fragmentShader: fShader,
+      vertexShader: vShader,
+    });
+
+    // and now create the mesh (geom+mat)
+    mesh = new THREE.Mesh(triangleGeom, material);
+    scene.add(mesh);
+
+    onWindowResize();
+    window.addEventListener('resize', onWindowResize, false);
+  }
+
+  function animate() {
+    requestAnimationFrame(animate);
+    render();
+  }
+
+  function render() {
+    // uniforms.u_time.value += 0.05;
+    renderer.render(scene, camera);
+  }
+
+  function onWindowResize(e) {
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    // uniforms.u_resolution.value.x = renderer.domElement.width;
+    // uniforms.u_resolution.value.y = renderer.domElement.height;
+  }
+
+</script>
+
+</html>

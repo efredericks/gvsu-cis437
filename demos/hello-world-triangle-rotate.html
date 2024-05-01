@@ -1,0 +1,75 @@
+<!-- 
+  * Hello world demo (2D triangle) for CIS367
+  * Code tweaked from here: http://www.johannes-raida.de/tutorials/three.js/tutorial02/tutorial02.htm
+  * See https://sbcode.net/threejs/geometry-to-buffergeometry/ for moving to the newer Three.js API
+-->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hello world</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <script src="./libraries/threejs/three.min.js"></script>
+  <script>
+    const scene = new THREE.Scene();
+
+    // 2D perspective camera -- see linked article on top for full explanation of params
+    const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 100);
+    camera.position.set(0, 0, 10);
+    camera.lookAt(scene.position);
+    scene.add(camera);
+
+    const renderer = new THREE.WebGLRenderer({antialias: true});
+    renderer.setClearColor(0x000000, 1); 
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+
+    // setup our triangle (via vertices and faces)
+    let triangleGeom = new THREE.BufferGeometry();
+    let points = [];
+    points.push(new THREE.Vector3(0.0, 1.0, 0.0));
+    points.push(new THREE.Vector3(-1.0, -1.0, 0.0));
+    points.push(new THREE.Vector3(1.0, -1.0, 0.0));
+    triangleGeom.setFromPoints(points);
+    triangleGeom.computeVertexNormals();
+
+    // .push(new THREE.Face3(0, 1, 2));
+
+    // give it a material
+    let triangleMat = new THREE.MeshBasicMaterial({
+      color: 0xFF00FF,
+      side: THREE.DoubleSide
+    });
+
+    // and now create the mesh (geom+mat)
+    let triangleMesh = new THREE.Mesh(triangleGeom, triangleMat);
+    triangleMesh.position.set(0,0,0);//-1.5, 0.0, 4.0);
+    scene.add(triangleMesh);
+
+    renderer.render(scene, camera);
+    animate();
+
+
+
+    function animate() {
+      requestAnimationFrame(animate);
+
+      triangleMesh.rotation.x += 0.01;
+      triangleMesh.rotation.y += 0.01;
+
+      renderer.render(scene, camera);
+    };
+
+    animate();
+  </script>
+</body>
+
+</html>
