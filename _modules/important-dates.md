@@ -1,25 +1,29 @@
 ---
-title: Important Dates - Winter 2024
+title: Important Dates - Fall 2024
 ---
 
 {: .label .label-yellow } No class
-: January 15
-  : Martin Luther King, Jr. Day Recess
+: September 1-2
+  : Labor Day recess
 
 {: .label .label-yellow } No class
-: March 5-12
-  : Spring break
+: October 20-22
+  : Fall break
+
+{: .label .label-yellow } No class
+: November 27-December 1
+  : Thanksgiving break
 
 {: .label .label-red } Exam
-: February 27 ~~23~~
+: TBD
   : Midterm exam
 
 {: .label .label-purple } Deliverable
-: April 18 and 20
+: December 3 and 5
   : Term project presentations
 
 {: .label .label-green } Info
-: April 22 @ 11:59pm
+: December 7 @ 11:59pm
   : Classes end (all materials due)
 
 {: .label .label-red } Exam

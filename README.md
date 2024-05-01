@@ -23,24 +23,39 @@ seo:
 
 * HW1 - Setup: TBD 
 
-
 ---
 
 ## Course Description
 
-* TBD
+Foundations of cloud computing: infrastructure/platform/software-as-a-service, virtualization, cloud platforms, on-demand/cloud applications. Challenges of cloud computing such as security and geographic implications, full-stack development, and big data. Cloud application development, deployment, and management is also covered.
 
 ---
 
 ## Learning Objectives
 
-TBD
+After successful completion of the course the students will be able to:
+
+* Define cloud computing and the role it plays in constructing modern software systems.
+
+* Describe key issues/developments relevant to cloud computing such as security, geographic distribution, containerization, virtualization, privacy, etc.
+
+* Develop cloud applications using modern cloud technologies.
+
+* Compare Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service.
+
+* Contrast the advantages and disadvantages of cloud applications
 
 ---
 
 ## Lecture
 
 Class meets 2 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+
+### Textbook
+
+This course uses an Open Educational Resource textbook: "Overview of Cloud Computing," Wufka, M., & Canonico, M. (2023).
+
+The PDF can be found here: [https://dc.arcabc.ca/islandora/object/dc%3A54375](https://dc.arcabc.ca/islandora/object/dc%3A54375)
 
 ---
 
@@ -54,8 +69,7 @@ There will be a 1/2 semester-long term project (individual or team, your choice)
 
 All assignments are due by 11:59pm on the date they are due.  Please check Blackboard regularly for upcoming due dates.  If you are struggling or are having problems, please contact me in advance.  If you message me or email me the night something is due I will most likely not accept your reasoning.  If you get in touch early then we can work it out.
 
-* Assignment late penalty: 10% per day (including weekends)
-* Late in-class assignment submissions are **not accepted**
+* Assignment late penalty: 10% per day for up to 3 days (including weekends) - anything after 3 days will be considered a 0.
 
 ### Submissions
 
