@@ -81,8 +81,16 @@ All assignments are due by 11:59pm on the date they are due.  Please check Black
 ## Resources
 
 Here are a list of resources I've collected that might help out.
+Note: check the [demos](demos) page for in-depth examples of how to do various things in class (including troubleshooting).
 
-### TBD
+### Resources from CIS655
+
+This is an online asynchronous class for the graduate-level Cloud Applications course.  A lot of the things we'll talk about in here are similar to those, so feel free to check out the videos for additional help. 
+
+* [CIS655 W24 Playlist](https://www.youtube.com/playlist?list=PLKl241YUM7mzmJjh9DYsbHJ68V34oIhzc){:target="\_blank"}
+* [Cloud/Linux Helper Reference](https://youtu.be/Mck8pd1Hw4Q){:target="\_blank"}
+* [Google Cloud Tech YouTube Channel](https://www.youtube.com/@googlecloudtech){:target="\_blank"}
+* [AWS YouTube Channel](https://www.youtube.com/@amazonwebservices){:target="\_blank"}
 
 ### Git/GitHub-Related
 
