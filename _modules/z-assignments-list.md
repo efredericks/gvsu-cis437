@@ -4,6 +4,8 @@ title: Expected Assignments
 
 **Note - all assignment files are hosted/submitted within [Blackboard](https://lms.gvsu.edu)**
 
+**Additional note - these are subject to change as the semester goes on, given this is the first time I'm offering this course**
+
 &nbsp;
 : Google Cloud / Qwiklabs / AWS Setup
   : **Homework**{: .label .label-purple } 

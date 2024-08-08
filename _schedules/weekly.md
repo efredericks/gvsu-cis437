@@ -28,9 +28,9 @@ schedule:
   - name: Tuesday
     events:
       - name: Section 01
-        start: 1:00 PM
-        end: 2:15 PM
-        location: MAK B2-235
+        start: 2:30 PM
+        end: 3:45 PM
+        location: MAK A1-110
   - name: Wednesday
     events:
       - name: Office Hours
@@ -40,9 +40,9 @@ schedule:
   - name: Thursday
     events:
       - name: Section 01
-        start: 1:00 PM
-        end: 2:15 PM
-        location: MAK B2-235
+        start: 2:30 PM
+        end: 3:45 PM
+        location: MAK A1-110
   - name: Friday
     events:
       - name: Office Hours
