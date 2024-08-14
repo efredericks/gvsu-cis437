@@ -2,7 +2,7 @@
 title: Modules for CIS437 - Cloud Computing
 ---
 
-*Note: see the [demos](../demos) page for in-class demonstration code.*
+*Note: this list is subject to change as the class goes on.  As always, see Blackboard for assignments.*
 
 1
 : Introduction to the Cloud
@@ -17,11 +17,11 @@ title: Modules for CIS437 - Cloud Computing
 : * OpenStack / Chameleon
 
 3
-: Cloud Applications
+: Cloud Shell and Cloud Applications
   : Read Chapter 4 in Overview of Cloud Computing
 
 4
-: \* as a service
+: \* as a service, Microservices, and Serverless Computing
   : Read Chapter 5 in Overview of Cloud Computing
 : * Infrastructure
 : * Platform
@@ -32,16 +32,15 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapters 6 and 7 in Overview of Cloud Computing
 
 6
-: Full Stack Development
+: Orchestration / Full Stack Development
   : Read a TBD article
-
 
 7
 : Cloud Operations 
   : Read Chapter 8 in Overview of Cloud Computing
 
 8
-: Big Data
+: Little and Big Data
   : Read a TBD article
 
 9
