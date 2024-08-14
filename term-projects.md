@@ -15,7 +15,9 @@ description: >-
 1. TOC
 {:toc}
 
-Your **overall task** is to create a functioning prototype of something graphics-related.  Note that this is about a *half*-term project.  If you wish to start at the very beginning of the class because you want to use this as an excuse to build something really incredible feel free to chat with me when you have a thought.
+Your **overall task** is to create a functioning prototype of an application that links together **four** cloud services.  Note that this is about a *half*-term project.  If you wish to start at the very beginning of the class because you want to use this as an excuse to build something really incredible feel free to chat with me when you have a thought.
+
+Additionally, if you have any desire to work on a research project please also discuss with me early on, as this is both a possibility for extra credit and in-class research experience.
 
 Project teams can be from 1 to 4 people.
 
@@ -30,34 +32,24 @@ Project teams can be from 1 to 4 people.
 
 ---
 
+## Project Limitations
+
+Using a built-in service does not count towards the four required.  For instance, Cloud Shell, logging, IAM, etc. are not valid components for the four term project services.  You should absolutely use them to support the project (because, of course you need to secure them with IAM, for instance), however they are not the 'core' aspects.
+
 ## Project Examples
 
-Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  Note: you can use *whatever* language or environment you want. You are welcome to do nifty things in WebGL, Unity, Blender, etc.  You are also welcome to go beyond if you want (Godot, Shadertoy, Unreal Engine, etc.).  If you do choose to use a different framework please get approval first to ensure it fits with the class.
+Your team has the option to choose whatever project you wish to work on (pending approval and scoping, naturally).  
+I would anticipate that most people choose to use Google Cloud as you have free credits there, however if you wish to use your free trial of AWS (or any other provider) that is fine too, as long as you still hit the key requirements.
 
-Next are some past examples of term projects to get your ideas percolating:
+Next are some past examples of term projects (from the graduate class):
 
-* Walking simulator with procedurally-generated environments
-* 3D bow and arrow target practice
-* Fluid simulations (with significant effort)
-* Galaxy simulation
-* Music visualizer
-* 3D art reproduction
-* Raycasting engine (classic Doom style)
-* Crystal rendering
-
-Examples from other classes:
-
-### Games
-
-* Roguelike
-* Procedurally-generated 2D space game
-* Role-playing games
-* 2D platformer
-* 2D shmup
-* Halo clone with multiplayer
-* Text adventure
-* Interactive fiction
-* 1st-person horror VR 
+* Load-balanced restaurant website
+* Rick and Morty fan website + chatbot (master's project)
+* Insect identification phone application
+* Automated language translation system
+* Automated scheduling system for sports
+* Quizzing / Flashcards
+* Various flavors of chatbot
 
 ---
 
@@ -66,8 +58,9 @@ Examples from other classes:
 * Ensure you pick something achievable for your team.  For example, if nobody has any Python experience it might not make sense to write your project in Python.  Conversely, if there is something you *really want to learn* then this might be a good opportunity to do that.  Just ensure that you scope your project appropriately (e.g., don't shoot for an MMO if you've never written networking code before).
 * Pick a project that *you've always wanted to work on, but never have had time to do that*.  I view this project as a forced push to do something interesting.  I don't know about you, but I tend to start projects and never finish them unless I have a forced deadline.
 * Be proud of what you've worked on - ideally this will be part of your project portfolio that you can show off to future employers.
+  * That being said, given this is on the cloud it will probably be taken offline after class is over, given that you would have to start paying for it otherwise.  As such, **make backups** or, at minimum, **take screenshots**!
 * If you are using starter code, libraries, tutorials, etc., ensure that you cite your source in your project documentation.
-* **DO NOT** simply clone/copy someone else's project (either from this class or the Internet) and call it your own without significant iteration.  For example, you can use the Unity tutorials or microgame starters as long as you **significantly extend** them.
+* **DO NOT** simply clone/copy someone else's project (either from this class or the Internet) and call it your own without significant iteration.  For example, you can use Codelabs, Qwiklabs, or any other tutorialas as long as you **significantly extend** AND **cite** them.
 
 ---
 

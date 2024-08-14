@@ -81,7 +81,6 @@ All assignments are due by 11:59pm on the date they are due.  Please check Black
 ## Resources
 
 Here are a list of resources I've collected that might help out.
-Note: check the [demos](demos) page for in-depth examples of how to do various things in class (including troubleshooting).
 
 ### Resources from CIS655
 
