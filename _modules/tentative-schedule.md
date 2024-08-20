@@ -5,7 +5,7 @@ title: Modules for CIS437 - Cloud Computing
 *Note: this list is subject to change as the class goes on.  As always, see Blackboard for assignments.*
 
 1
-: Introduction to the Cloud
+: [Introduction to the Cloud](/gvsu-cis437/assets/slides/CIS437-1-Introduction.pdf)
   : Read Chapters 1 and 2 in Overview of Cloud Computing
 
 2
