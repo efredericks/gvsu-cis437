@@ -21,7 +21,7 @@ seo:
 
 ## Due Dates
 
-* HW1 - Setup: TBD 
+* HW1 - Setup: Sept 5th by 11:59pm
 
 ---
 

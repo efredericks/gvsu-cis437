@@ -15,7 +15,7 @@ title: Important Dates - Fall 2024
   : Thanksgiving break
 
 {: .label .label-red } Exam
-: TBD
+: October 10, 2:30pm - 3:45pm
   : Midterm exam
 
 {: .label .label-purple } Deliverable
@@ -27,5 +27,5 @@ title: Important Dates - Fall 2024
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: TBD
+: December 12, 2:00pm - 3:50pm
   : Final exam
