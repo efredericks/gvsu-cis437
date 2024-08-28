@@ -9,7 +9,7 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapters 1 and 2 in Overview of Cloud Computing
 
 2
-: Cloud Platforms
+: [Cloud Platforms](/gvsu-cis437/assets/slides/CIS437-2-Cloud-Platforms.pdf)
   : Read Chapter 3 in Overview of Cloud Computing
 : * Google Cloud (formerly Google Cloud Platform)
 : * Amazon Web Services (AWS)
