@@ -21,6 +21,7 @@ seo:
 
 ## Due Dates
 
+* IC1 - Sept 4th by 11:59pm
 * HW1 - Setup: Sept 5th by 11:59pm
 
 ---
