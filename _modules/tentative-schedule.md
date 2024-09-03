@@ -20,7 +20,7 @@ title: Modules for CIS437 - Cloud Computing
 : * OpenStack / Chameleon
 
 3
-: Cloud Shell and Cloud Applications
+: [Cloud Shell](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf) and Cloud Applications
   : Read Chapter 4 in Overview of Cloud Computing
 
 4
