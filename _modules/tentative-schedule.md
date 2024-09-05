@@ -14,42 +14,41 @@ title: Modules for CIS437 - Cloud Computing
 2
 : [Cloud Platforms](/gvsu-cis437/assets/slides/CIS437-2-Cloud-Platforms.pdf)
   : Read Chapter 3 in Overview of Cloud Computing
-: * Google Cloud (formerly Google Cloud Platform)
-: * Amazon Web Services (AWS)
-: * Microsoft Azure
-: * OpenStack / Chameleon
 
-3
+3 
+: [Cloud History](/gvsu-cis437/assets/slides/CIS437-3-History.pdf)
+
+4
 : [Cloud Shell](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf) and Cloud Applications
   : Read Chapter 4 in Overview of Cloud Computing
 
-4
+5
 : \* as a service, Microservices, and Serverless Computing
   : Read Chapter 5 in Overview of Cloud Computing
 : * Infrastructure
 : * Platform
 : * Software
 
-5
+6
 : Security and Geographic Implications
   : Read Chapters 6 and 7 in Overview of Cloud Computing
 
-6
+7
 : Orchestration / Full Stack Development
   : Read a TBD article
 
-7
+8
 : Cloud Operations 
   : Read Chapter 8 in Overview of Cloud Computing
 
-8
+9
 : Little and Big Data
   : Read a TBD article
 
-9
+10
 : Fog Computing (or, how to get to the real world)
   : Read a TBD article
 
-10
+11
 : Machine Learning / Generative AI
   : Read a TBD article
