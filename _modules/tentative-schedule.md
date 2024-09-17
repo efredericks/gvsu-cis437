@@ -19,7 +19,7 @@ title: Modules for CIS437 - Cloud Computing
 : [Cloud History (updated 09/11)](/gvsu-cis437/assets/slides/CIS437-3-History.pdf)
 
 4
-: [Cloud Shell](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf) and Cloud Applications
+: [Cloud Shell (updated 09/17)](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf) and Cloud Applications
   : Read Chapter 4 in Overview of Cloud Computing
 
 5

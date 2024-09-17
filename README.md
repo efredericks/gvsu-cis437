@@ -21,7 +21,6 @@ seo:
 
 ## Due Dates
 
-* IC2 - JavaScript Frameworks in Cloud Shell: Sept. 13th by 11:59pm
 * HW2 - Cloud Shell + Services: Sept 20th by 11:59pm
 
 ---
