@@ -21,7 +21,7 @@ seo:
 
 ## Due Dates
 
-* HW2 - Cloud Shell + Services: Sept 20th by 11:59pm
+* HW3: Oct 4th by 11:59pm
 
 ---
 
