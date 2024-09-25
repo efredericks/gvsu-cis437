@@ -21,6 +21,7 @@ seo:
 
 ## Due Dates
 
+* IC3: Sept 27th by 11:59pm
 * HW3: Oct 4th by 11:59pm
 
 ---
