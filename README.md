@@ -22,6 +22,7 @@ seo:
 ## Due Dates
 
 * IC4: Oct 16th by 11:59pm
+* HW4: Oct 29th by 11:59pm
 
 ---
 
