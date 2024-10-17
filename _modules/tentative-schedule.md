@@ -23,7 +23,7 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapter 4 in Overview of Cloud Computing
 
 5
-: [Microservices](/gvsu-cis437/assets/slides/CIS437-6-Microservices.pdf) and Serverless Computing
+: [Microservices (updated 01/17)](/gvsu-cis437/assets/slides/CIS437-6-Microservices.pdf) and Serverless Computing
   : Read Chapter 5 in Overview of Cloud Computing
 
 6
