@@ -19,10 +19,11 @@ seo:
 
 ---
 
+# NOTE - NO CLASS TUES - NOV 5
+
 ## Due Dates
 
-* IC5: Oct 18th by 11:59pm
-* HW4: Oct 29th by 11:59pm
+* IC7: Nov 6th by 11:59pm
 
 ---
 
