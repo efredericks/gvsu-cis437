@@ -10,6 +10,7 @@ title: Modules for CIS437 - Cloud Computing
 
 1.2
 : [AWS Academy Cloud Foundations - Cloud Economics and Billing](/gvsu-cis437/assets/slides/CIS437-1.2-AWS-AcademyCloudFoundations-Module-02.pdf)
+  :
 
 2
 : [Cloud Platforms (updated 09/05)](/gvsu-cis437/assets/slides/CIS437-2-Cloud-Platforms.pdf)
@@ -17,6 +18,7 @@ title: Modules for CIS437 - Cloud Computing
 
 3 
 : [Cloud History (updated 09/11)](/gvsu-cis437/assets/slides/CIS437-3-History.pdf)
+  :
 
 4
 : [Cloud Shell (updated 09/17)](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf), [Cloud Applications](/gvsu-cis437/assets/slides/CIS437-5-CloudApplications.pdf), [Networking](/gvsu-cis437/assets/slides/CIS437-5.1-GCP-Networking.pdf), and [Cloud Design Patterns (updated 10/15)](/gvsu-cis437/assets/slides/CIS437-5.2-CloudDesignPatterns.pdf)
@@ -32,12 +34,15 @@ title: Modules for CIS437 - Cloud Computing
 
 7
 : [Normal and Big Data](/gvsu-cis437/assets/slides/CIS437-10-Normal-and-Big-Data.pdf)
+  : 
 
 8
 : APIs
+  :
 
 9
 : Firebase
+  :
 
 9
 : Cloud Operations / Full Stack
@@ -46,6 +51,8 @@ title: Modules for CIS437 - Cloud Computing
 
 10
 : Fog Computing (or, how to get to the real world)
+  :
 
 11
 : Machine Learning / Generative AI
+  :
