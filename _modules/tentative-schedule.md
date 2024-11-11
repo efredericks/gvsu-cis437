@@ -38,11 +38,9 @@ title: Modules for CIS437 - Cloud Computing
 
 8
 : APIs
-  :
 
 9
 : Firebase
-  :
 
 9
 : Cloud Operations / Full Stack
@@ -51,8 +49,6 @@ title: Modules for CIS437 - Cloud Computing
 
 10
 : Fog Computing (or, how to get to the real world)
-  :
 
 11
 : Machine Learning / Generative AI
-  :
