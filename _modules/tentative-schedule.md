@@ -31,21 +31,21 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapters 6 and 7 in Overview of Cloud Computing
 
 7
-: Orchestration / Full Stack Development
-  : Read a TBD article
+: [Normal and Big Data](/gvsu-cis437/assets/slides/CIS437-10-Normal-and-Big-Data.pdf)
 
 8
-: Cloud Operations 
-  : Read Chapter 8 in Overview of Cloud Computing
+: APIs
 
 9
-: Little and Big Data
-  : Read a TBD article
+: Firebase
+
+9
+: Cloud Operations / Full Stack
+  : Read Chapter 8 in Overview of Cloud Computing
+
 
 10
 : Fog Computing (or, how to get to the real world)
-  : Read a TBD article
 
 11
 : Machine Learning / Generative AI
-  : Read a TBD article
