@@ -21,6 +21,7 @@ seo:
 
 ## Due Dates
 
+* IC8: Nov 13 by 11:59pm
 * HW5: Nov 21 by 11:59pm
 
 ---
