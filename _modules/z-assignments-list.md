@@ -31,17 +31,5 @@ title: Expected Assignments
 : Security
   : **Homework**{: .label .label-purple } 
 
-: Mini project 2 - Synthesis (Three Technologies)
-  : **Homework**{: .label .label-purple } 
-
-: Big Data
-  : **Homework**{: .label .label-purple } 
-
-: Firebase 
-  : **Homework**{: .label .label-purple } 
-
-: Generative AI
-  : **Homework**{: .label .label-purple } 
-
 : Term Project Deliverables and Presentation
   : **Term Project**{: .label .label-red } 
