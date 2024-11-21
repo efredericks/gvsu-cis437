@@ -23,6 +23,7 @@ seo:
 
 * IC8: Nov 13 by 11:59pm
 * HW5: Nov 21 by 11:59pm
+* Term project deliverables: Dec 7 by 11:59pm
 
 ---
 

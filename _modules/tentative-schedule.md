@@ -40,7 +40,7 @@ title: Modules for CIS437 - Cloud Computing
 : [APIs](/gvsu-cis437/assets/slides/CIS437-11-APIs.pdf)
 
 9
-: Cloud Run / Cloud Build
+: [Cloud Run / Cloud Build](/gvsu-cis437/assets/slides/CIS437-12-Cloud-Run-and-Cloud-Build.pdf)
 
 10
 : Cloud Operations / Full Stack
