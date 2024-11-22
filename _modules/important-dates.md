@@ -26,6 +26,12 @@ title: Important Dates - Fall 2024
 : December 7 @ 11:59pm
   : Classes end (all materials due)
 
+<!--
 {: .label .label-red } Exam
 : December 12, 2:00pm - 3:50pm
   : Final exam
+-->
+
+{: .label .label-red } Exam
+: December 10th - 12th 
+  : Final exam <br /><b>online on Blackboard</b>

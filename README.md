@@ -19,11 +19,14 @@ seo:
 
 ---
 
+## Dates
+
+* **No class Dec. 5**
+* **Final exam is Dec. 10 - 12 on Blackboard** - no late submissions will be accepted
+
 ## Due Dates
 
-* IC8: Nov 13 by 11:59pm
-* HW5: Nov 21 by 11:59pm
-* Term project deliverables: Dec 7 by 11:59pm
+* **Term project deliverables**: Dec 7 by 11:59pm - no late submissions will be accepted
 
 ---
 
