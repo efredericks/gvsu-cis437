@@ -43,12 +43,8 @@ title: Modules for CIS437 - Cloud Computing
 : [Cloud Run / Cloud Build](/gvsu-cis437/assets/slides/CIS437-12-Cloud-Run-and-Cloud-Build.pdf)
 
 10
-: Cloud Operations / Full Stack
+: [Cloud Operations](/gvsu-cis437/assets/slides/CIS437-13-Operations.pdf)
   : Read Chapter 8 in Overview of Cloud Computing
 
 11
 : Machine Learning / Generative AI
-
-12
-: Firebase (if time)
-: Fog Computing (or, how to get to the real world)
