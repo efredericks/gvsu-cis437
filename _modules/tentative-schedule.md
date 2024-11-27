@@ -47,4 +47,4 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapter 8 in Overview of Cloud Computing
 
 11
-: Machine Learning / Generative AI
+: [Machine Learning / Generative AI](/gvsu-cis437/assets/slides/CIS437-14-Machine-Learning-Generative-AI.pdf)
