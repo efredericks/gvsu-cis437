@@ -19,14 +19,9 @@ seo:
 
 ---
 
-## Dates
-
-* **No class Dec. 5**
-* **Final exam is Dec. 10 - 12 on Blackboard** - no late submissions will be accepted
-
 ## Due Dates
 
-* **Term project deliverables**: Dec 7 by 11:59pm - no late submissions will be accepted
+* HW1 - TBD 
 
 ---
 

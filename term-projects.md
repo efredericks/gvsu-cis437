@@ -43,6 +43,12 @@ I would anticipate that most people choose to use Google Cloud as you have free 
 
 Next are some past examples of term projects (from the graduate class):
 
+* Internet of Things pipeline
+* Food logging application
+* Image classification chatbot
+* Infinite Craft clone
+* Load-balanced Minecraft servers
+* Collaborative notes application
 * Load-balanced restaurant website
 * Rick and Morty fan website + chatbot (master's project)
 * Insect identification phone application
