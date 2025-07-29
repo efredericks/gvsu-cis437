@@ -7,4 +7,4 @@ description: >-
 
 # Syllabus
 
-* [Fall 2024](/gvsu-cis437/assets/Syllabus_F2024_CIS437_Fredericks.pdf)
+* [Fall 2025](/gvsu-cis437/assets/Syllabus_F2025_CIS437_Fredericks.pdf)

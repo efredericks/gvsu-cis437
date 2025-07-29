@@ -9,8 +9,7 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapters 1 and 2 in Overview of Cloud Computing
 
 1.2
-: [AWS Academy Cloud Foundations - Cloud Economics and Billing](/gvsu-cis437/assets/slides/CIS437-1.2-AWS-AcademyCloudFoundations-Module-02.pdf)
-  :
+: **[AWS Academy Cloud Foundations - Cloud Economics and Billing](/gvsu-cis437/assets/slides/CIS437-1.2-AWS-AcademyCloudFoundations-Module-02.pdf)**
 
 2
 : Cloud Platforms
@@ -18,7 +17,8 @@ title: Modules for CIS437 - Cloud Computing
 
 3 
 : Cloud History
-  :
+  : _
+  
 
 4
 : Cloud Shell, Cloud Applications, Networking, and Cloud Design Patterns
@@ -34,13 +34,15 @@ title: Modules for CIS437 - Cloud Computing
 
 7
 : Normal and Big Data
-  : 
+  : _
 
 8
 : APIs
+  : _
 
 9
 : Cloud Run / Cloud Build
+  : _
 
 10
 : Cloud Operations
@@ -48,3 +50,4 @@ title: Modules for CIS437 - Cloud Computing
 
 11
 : Machine Learning / Generative AI
+  : _

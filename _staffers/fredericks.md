@@ -8,9 +8,8 @@ photo: Fredericks-Small.jpg
 
 &nbsp;
 
-| Office | MAK D2-210, DCIH 530M |
-| Office Hours | M, 2:00pm - 3:00pm (DCIH 530M) |
-| |  TR 10:00am - 11:00am (MAK-D2-210)
+| Office | MAK D2-210 |
+| Office Hours | MWF, 1:00pm - 2:00pm |
 | |  or by appointment |
 | Phone | 616-331-4374 |
 | Email | frederer@gvsu.edu |
