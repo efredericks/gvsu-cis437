@@ -22,8 +22,8 @@ schedule:
   - name: Monday
     events:
       - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
+        start: 11:00 AM
+        end: 12:00 PM
         location: MAK D2-210
   - name: Tuesday
     events:
@@ -34,8 +34,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
+        start: 11:00 AM
+        end: 12:00 PM
         location: MAK D2-210
   - name: Thursday
     events:
@@ -46,7 +46,7 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
+        start: 11:00 AM
+        end: 12:00 PM
         location: MAK D2-210
 ---
