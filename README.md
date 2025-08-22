@@ -21,7 +21,9 @@ seo:
 
 ## Due Dates
 
-* HW1 - TBD 
+* IC1 - 08/27 by 11:59pm
+* IC2 - 08/29 by 11:59pm
+* HW1 - 09/04 by 11:59pm
 
 ---
 
