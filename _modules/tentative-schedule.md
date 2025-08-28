@@ -12,7 +12,7 @@ title: Modules for CIS437 - Cloud Computing
 : **[AWS Academy Cloud Foundations - Cloud Economics and Billing](/gvsu-cis437/assets/slides/CIS437-1.2-AWS-AcademyCloudFoundations-Module-02.pdf)**
 
 2
-: Cloud Platforms
+: [Cloud Platforms](/gvsu-cis437/assets/slides/CIS437-2-Cloud-Platforms.pdf)
   : Read Chapter 3 in Overview of Cloud Computing
 
 3 
