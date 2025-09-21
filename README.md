@@ -21,7 +21,7 @@ seo:
 
 ## Due Dates
 
-* HW2 - 09/19 by 11:59pm
+* HW3 - 10/03 by 11:59pm
 * IC5 - 09/21 by 11:59pm
 
 * Note: basic Linux commands can be found here (don't worry about the SSH parts, but the other commands are relevant to moving around the VM filesystem or the Cloud Shell): [https://efredericks.github.io/gvsu-cis241/commands/](https://efredericks.github.io/gvsu-cis241/commands/)
