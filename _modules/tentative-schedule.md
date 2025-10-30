@@ -33,7 +33,7 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapters 6 and 7 in Overview of Cloud Computing
 
 7
-: [Normal and Big Data](/gvsu-cis437/assets/slides/CIS437-10-Normal-and-Big-Data.pdf) 
+: [Normal and Big Data (updated 10/30)](/gvsu-cis437/assets/slides/CIS437-10-Normal-and-Big-Data.pdf) 
 )
   : _
 
