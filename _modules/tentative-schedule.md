@@ -38,7 +38,7 @@ title: Modules for CIS437 - Cloud Computing
   : _
 
 8
-: [APIs](/gvsu-cis437/assets/slides/CIS437-11-APIs.pdf)
+: [APIs (updated 11/06)](/gvsu-cis437/assets/slides/CIS437-11-APIs.pdf)
   : _
 
 9
