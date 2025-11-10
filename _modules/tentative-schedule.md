@@ -42,7 +42,7 @@ title: Modules for CIS437 - Cloud Computing
   : _
 
 9
-: Cloud Run / Cloud Build
+: [Cloud Run / Cloud Build](/gvsu-cis437/assets/slides/CIS437-12-Cloud-Run-and-Cloud-Build.pdf)
   : _
 
 10
