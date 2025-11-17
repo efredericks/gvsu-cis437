@@ -46,7 +46,7 @@ title: Modules for CIS437 - Cloud Computing
   : _
 
 10
-: Cloud Operations
+: [Cloud Operations](/gvsu-cis437/assets/slides/CIS437-13-Operations.pdf)
   : Read Chapter 8 in Overview of Cloud Computing
 
 11
