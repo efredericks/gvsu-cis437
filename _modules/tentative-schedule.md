@@ -34,7 +34,6 @@ title: Modules for CIS437 - Cloud Computing
 
 7
 : [Normal and Big Data (updated 10/30)](/gvsu-cis437/assets/slides/CIS437-10-Normal-and-Big-Data.pdf) 
-)
   : _
 
 8
