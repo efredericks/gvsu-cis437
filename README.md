@@ -21,7 +21,7 @@ seo:
 
 ## Due Dates
 
-* IC13 - 11/20 by 11:59pm
+* IC14 - 12/01 by 11:59pm
 * Term project presentations: 12/2 and 12/4
 * Term project presentations (turn in) and deliverables: 12/6
 
