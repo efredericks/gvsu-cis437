@@ -43,6 +43,10 @@ I would anticipate that most people choose to use Google Cloud as you have free 
 
 Next are some past examples of term projects (from the graduate class):
 
+* Multiplayer fish game
+* Sports API interaction
+* Weather API interaction / prediction
+* CMS / shopping website
 * Internet of Things pipeline
 * Food logging application
 * Image classification chatbot
