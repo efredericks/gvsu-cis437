@@ -1,31 +1,31 @@
 ---
-title: Important Dates - Fall 2025
+title: Important Dates - Winter 2024
 ---
 
 {: .label .label-yellow } No class
-: August 31 - September 1
-  : Labor Day recess
+: January 19
+  : Martin Luther King Jr. Day recess
 
 {: .label .label-yellow } No class
-: October 19 - 21
-  : Fall break
-
-{: .label .label-yellow } No class
-: November 26 - November 30
-  : Thanksgiving break
-
-{: .label .label-red } Exam
-: October 9, 2:30pm - 3:45pm
-  : Midterm exam
+: March 8 -- 15
+  : Spring break
 
 {: .label .label-purple } Deliverable
-: December 2 and 4
+: TBD ~ mid class <!-- October 14th -->
+  : Term project status updates
+
+{: .label .label-purple } Deliverable
+: TBD ~ last week of class <!--December 7 and 9-->
   : Term project presentations
 
 {: .label .label-green } Info
-: December 6 @ 11:59pm
+: April 25 @ 11:59pm
   : Classes end (all materials due)
 
 {: .label .label-red } Exam
-: December 11, 2:00pm - 3:50pm
+: February 26, 6:00pm - 8:00pm
+  : Midterm exam
+
+{: .label .label-red } Exam
+: April 30, 6:00pm - 8:50pm
   : Final exam
