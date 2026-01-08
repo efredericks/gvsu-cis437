@@ -20,33 +20,26 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: MAK D2-210
   - name: Tuesday
     events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: MAK D2-210
       - name: CIS437-01
         start: 2:30 PM
         end: 3:45 PM
         location: MAK A1-110
   - name: Wednesday
-    events:
-      - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: MAK D2-210
   - name: Thursday
     events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 11:00 AM
+        location: MAK D2-210
       - name: CIS437-01
         start: 2:30 PM
         end: 3:45 PM
         location: MAK A1-110
   - name: Friday
-    events:
-      - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: MAK D2-210
 ---
