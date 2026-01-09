@@ -9,7 +9,7 @@ photo: Fredericks-Small.jpg
 &nbsp;
 
 | Office | MAK D2-210 |
-| Office Hours | TR, 10:00am - 11:00am |
+| Office Hours | MF, 11:00am - 12:00pm |
 | |  or by appointment |
 | Phone | 616-331-4374 |
 | Email | frederer@gvsu.edu |
