@@ -51,7 +51,7 @@ After successful completion of the course the students will be able to:
 
 ## Lecture
 
-Class meets 2 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
+Class meets 3 times a week in person.  Typically class will comprise a lecture with some in-class assignments sprinkled throughout.  These are due the **next day by 11:59pm**.  Ensure you keep up on these, as they factor into the Participation part of your grade.  
 
 ### Textbook
 
