@@ -21,7 +21,7 @@ title: Modules for CIS437 - Cloud Computing
   
 
 4
-: Cloud Shell, Cloud Applications, Networking, and Cloud Design Patterns
+: [Cloud Shell](/gvsu-cis437/assets/slides/CIS437-4-Cloud-Shell.pdf), Cloud Applications, Networking, and Cloud Design Patterns
   : Read Chapter 4 in Overview of Cloud Computing
 
 5
