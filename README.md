@@ -22,7 +22,7 @@ seo:
 ## Due Dates
 
 * **MIDTERM: 02/25**
-* IC4: 02/~~14~~16
+* IC5: 02/24
 * HW3: 02/20
 
 * Note: basic Linux commands can be found here (don't worry about the SSH parts, but the other commands are relevant to moving around the VM filesystem or the Cloud Shell): [https://efredericks.github.io/gvsu-cis241/commands/](https://efredericks.github.io/gvsu-cis241/commands/)
