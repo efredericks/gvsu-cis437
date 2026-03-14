@@ -29,7 +29,7 @@ title: Modules for CIS437 - Cloud Computing
   : Read Chapter 5 in Overview of Cloud Computing
 
 6
-: [Geographic Implications](/gvsu-cis437/assets/slides/CIS437-8-Geographic-Issues.pdf) and Security
+: [Geographic Implications](/gvsu-cis437/assets/slides/CIS437-8-Geographic-Issues.pdf) and [Security](/gvsu-cis437/assets/slides/CIS437-9-CloudSecurity.pdf)
   : Read Chapters 6 and 7 in Overview of Cloud Computing
 
 7
