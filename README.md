@@ -21,8 +21,7 @@ seo:
 
 ## Due Dates
 
-* IC7 (EC): 03/10
-* HW4: 03/18
+* HW5: 04/03
 
 * Note: basic Linux commands can be found here (don't worry about the SSH parts, but the other commands are relevant to moving around the VM filesystem or the Cloud Shell): [https://efredericks.github.io/gvsu-cis241/commands/](https://efredericks.github.io/gvsu-cis241/commands/)
 
