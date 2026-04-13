@@ -22,7 +22,8 @@ seo:
 ## Due Dates
 
 * Term project progress: 04/16
-* IC9: 04/07
+* Term project deliverables: 04/25
+* Final exam: 04/27/2026, 10:00am-11:50am
 
 * Note: basic Linux commands can be found here (don't worry about the SSH parts, but the other commands are relevant to moving around the VM filesystem or the Cloud Shell): [https://efredericks.github.io/gvsu-cis241/commands/](https://efredericks.github.io/gvsu-cis241/commands/)
 
